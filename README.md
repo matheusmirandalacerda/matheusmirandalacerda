@@ -4,7 +4,7 @@ Sou **analista financeiro** com **mais de 8 anos de experiência** na área fina
 
 ## Habilidades Técnicas
 
-- **Excel Intermediário**: Habilidade em otimizar planilhas, utilizar funções complexas, criar gráficos e automações.
+- **Excel Intermediário**: Habilidade em otimizar planilhas, utilizar funções e criar gráficos.
 - **SQL**: Manipulação de dados com comandos DML e consultas avançadas.
 - **Análise Financeira**: Faturamento, contas a pagar e receber, controle de fluxo de caixa, relatórios financeiros.
 - **Python**: Conhecimento básico, explorando o uso para análise de dados.
